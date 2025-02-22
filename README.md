@@ -1,5 +1,7 @@
-# React Context | Part 2
-
+# React Context
+- React Context
+  - createContext()
+  - Consumer Component
 - Context Provider
   - Where to Write?
 - Context Flow
